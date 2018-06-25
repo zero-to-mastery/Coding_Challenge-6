@@ -2,6 +2,45 @@
 
 This coding challenge is all about logic and problem solving. Since Coding Challenge #4 was such a success we are doing something similar again. You will get a chance to work on javascript logic problems and also see how others have solved similar problems. This way you can learn from each other! Please Use the **#coding-challenge** channel to discuss and share your work. At the end of the challenge, I will compile everyone's submitted answers onto github.(Ps, try to solve these yourself before going out on the internet and finding a copy paste solution)
 
+## Coding Challenge Submissions
+The wonderful submissions from some of the Zero-to-Mastery students on the fifth coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
+
+Jaxxeh#7943
+https://github.com/jaxxeh/challenge-6
+
+Clayton#9381
+https://github.com/claytonweller/codechallenge6
+
+Hemant#2188
+https://github.com/hemantbits/ztmcc6
+
+Dirk005#4347
+https://github.com/dirk005/Coding_Challenge-6
+
+figat#4627
+https://github.com/bartekfigat/Challenge-6.git
+
+Wil Waller#5408
+https://github.com/wilbertwaller/coding-challenge-6
+
+SteveD#9549
+https://github.com/SteveDuncan-ZTM/CodingChallenge-6
+
+Samir#0141
+https://github.com/SamirJouni/CodingChallenge6
+
+kbo#9169
+https://github.com/kboeff/coding-challenge-6
+
+Lelouch#0621
+https://github.com/ahsan8244/ZeroToMastery-Coding-Challenge-6
+
+maboumra#4318
+https://github.com/maboumra/WD2018_CC6
+
+whitneyscott#0530
+https://github.com/whitneyscott/Coding_Challenge-6
+
 ## What is the Challenge?
 
 Solve the below 3 javascript puzzles. The goal of this challenge is to practice our logic skills. Something that is useful not only in interviews when you get challenging problems, but also in your day to day work as a developer. First, start off by reading this article: https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2
