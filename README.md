@@ -41,6 +41,42 @@ https://github.com/maboumra/WD2018_CC6
 whitneyscott#0530
 https://github.com/whitneyscott/Coding_Challenge-6
 
+thomlom#4328
+https://github.com/thomlom/coding-challenges/tree/master/coding-challenge-6
+
+r4pt0s#5359
+https://github.com/r4pt0s/coding_challenge_6_ztm
+
+Craindrush#9084
+https://github.com/Craindrush/CodingChallenge6
+
+polzak#1155
+https://github.com/polzak/challenge-6-web-app
+
+ndobosz#6640
+https://github.com/ndobosz/Coding_Challenge6
+
+Julian#7835
+https://github.com/Julesdowork/Coding-Challenge-6
+
+LynnJ#1061
+https://github.com/mlynnjacobs/codeChallenge6//
+
+Speral#2416
+http://github.com/yokutoro/Coding_Challenge6
+
+The24thDS#6523
+https://github.com/The24thDS/the24thds.github.io/tree/master/challenges/6
+
+SabKop#4642
+https://github.com/SabKop/Coding_challenge-6
+
+shummi7#0430
+https://github.com/shummi7/codingChallenge6
+
+Puja#2455
+https://github.com/pgakk/challenge6
+
 ## What is the Challenge?
 
 Solve the below 3 javascript puzzles. The goal of this challenge is to practice our logic skills. Something that is useful not only in interviews when you get challenging problems, but also in your day to day work as a developer. First, start off by reading this article: https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2
