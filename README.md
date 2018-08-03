@@ -5,9 +5,6 @@ This coding challenge is all about logic and problem solving. Since Coding Chall
 ## Coding Challenge Submissions
 The wonderful submissions from some of the Zero-to-Mastery students on the sixth coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
 
-FiratTale-firatto#3790
-https://github.com/firattale/JavaScript/tree/master/ArrayFunctions/Andrew's%20Questions
-
 Jaxxeh#7943
 https://github.com/jaxxeh/challenge-6
 
