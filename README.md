@@ -83,6 +83,9 @@ https://github.com/pgakk/challenge6
 Aravindh#9049
 https://github.com/Aravindh-SNR/javascript-coding-challenge
 
+Nass#3301
+https://github.com/SNasser97/coding-challenge-6
+
 ## What is the Challenge?
 
 Solve the below 3 javascript puzzles. The goal of this challenge is to practice our logic skills. Something that is useful not only in interviews when you get challenging problems, but also in your day to day work as a developer. First, start off by reading this article: https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2
