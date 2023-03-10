@@ -77,6 +77,9 @@ https://github.com/SabKop/Coding_challenge-6
 shummi7#0430
 https://github.com/shummi7/codingChallenge6
 
+shin_harano#9296
+https://github.com/jhnh198/Various-Projects/blob/main/Coding_Challenges/coding_challenge_6.js
+
 Puja#2455
 https://github.com/pgakk/challenge6
 
