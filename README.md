@@ -95,6 +95,9 @@ https://github.com/avvijeet/ztm_coding-challenge_6
 clara#1880
 https://github.com/unhenei/Coding_Challenge-6_js_182
 
+Suramya_vns#3599
+https://github.com/Suramyavns/coding_challenge_6_submission
+
 ## What is the Challenge?
 
 Solve the below 3 javascript puzzles. The goal of this challenge is to practice our logic skills. Something that is useful not only in interviews when you get challenging problems, but also in your day to day work as a developer. First, start off by reading this article: https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2
